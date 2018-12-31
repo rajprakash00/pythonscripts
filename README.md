@@ -7,4 +7,4 @@
  2.SCRIPT FOR URL SHORTENER:-
         after succesfully executing this code run as follows:-
         
-        python filename url1 url2         You can add as many urls, you wish to add
+        `python filename url1 url2`         You can add as many urls, you wish to add
