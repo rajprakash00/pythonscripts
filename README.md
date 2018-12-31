@@ -5,6 +5,8 @@
         remember you can modify it and apply this method for any website.
         
  2.SCRIPT FOR URL SHORTENER:-
-        after succesfully executing this code run as follows:-
+  after succesfully executing this code run as follows:- `python filename url1 url2`        
         
-        `python filename url1 url2`         You can add as many urls, you wish to add
+  You can add as many urls, you wish to add
+        
+Ok!! now clone this repo and enjoy automating login for different websites :wink: :wink:
